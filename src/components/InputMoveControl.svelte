@@ -51,7 +51,7 @@ function up () {
   position: absolute;
   top: 50%;
   width: 12px;
-  height: 36px;
+  height: 34px;
   right: 0;
 }
 .position2 {
@@ -59,7 +59,7 @@ function up () {
   background-color: rgb(255, 255, 255);
   top: -50%;
   width: 20px;
-  height: 36px;
+  height: 34px;
   right: 8px;
 }
 .position2:before {
@@ -73,8 +73,8 @@ function up () {
 .marker {
   right: -8px;
   position: absolute;
-  width: 36px;
-  height: 36px;
+  width: 34px;
+  height: 34px;
   border-radius: 100%;
   background-color: #C4DFFE;
   transition: 0.25s;

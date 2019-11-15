@@ -17,7 +17,6 @@ let valueInput = 120
 .unselectable {
   user-select: none;
 }
-
 </style>
 
 <div class="wrap d-flex align-items-center">
