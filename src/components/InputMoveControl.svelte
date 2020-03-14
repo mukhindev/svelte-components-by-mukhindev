@@ -94,7 +94,7 @@ function up () {
 </style>
 
 <div class="relative">
-  <input type="number" bind:value={value} value="{value}" class="form-control">
+  <input type="number" bind:value={value} class="form-control">
   <div class="position1">
     <div on:mousedown={down} class="position2">
       <div class="marker unselectable {active}">
